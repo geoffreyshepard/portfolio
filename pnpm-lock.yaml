@@ -2,7 +2,6 @@ lockfileVersion: 5.4
 
 specifiers:
   '@sveltejs/adapter-auto': next
-  '@sveltejs/adapter-node': ^1.0.0-next.90
   '@sveltejs/kit': next
   autoprefixer: ^10.4.7
   eslint: ^8.12.0
@@ -17,7 +16,6 @@ specifiers:
 
 devDependencies:
   '@sveltejs/adapter-auto': 1.0.0-next.73
-  '@sveltejs/adapter-node': 1.0.0-next.90
   '@sveltejs/kit': 1.0.0-next.481_svelte@3.50.1+vite@3.1.0
   autoprefixer: 10.4.10_postcss@8.4.16
   eslint: 8.23.1
@@ -166,12 +164,6 @@ packages:
       '@iarna/toml': 2.2.5
       esbuild: 0.15.7
       set-cookie-parser: 2.5.1
-    dev: true
-
-  /@sveltejs/adapter-node/1.0.0-next.90:
-    resolution: {integrity: sha512-xf2mjGMdtOGm9ht/8a/hndRq/WS+IYX3CDrzrqS53y5gcEElXUMSvBe0W6B4dkbVhvLg8l5gyrfW8bWht2BNlg==}
-    dependencies:
-      esbuild: 0.15.7
     dev: true
 
   /@sveltejs/adapter-vercel/1.0.0-next.74:
