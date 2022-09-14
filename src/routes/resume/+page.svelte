@@ -50,7 +50,7 @@
 		</div>
 	</div>
 	<div class="w-1/3 mr-4 ml-4">
-		<h1 class="text-white text-xl mb-8 underline">Tools / Experience</h1>
+		<h1 class="text-white text-xl mb-8 underline">Tools & Experiences</h1>
 		<ul>
 			<li class="mb-4"><span class="p-2 rounded bg-blue-500">Svelte Kit</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-blue-500">NextJS</span></li>
