@@ -66,6 +66,7 @@
 			<li class="mb-4"><span class="p-2 rounded bg-gray-500">CSS</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-yellow-500">Headless CMS</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-yellow-500">Adobe AEM CMS</span></li>
+			<li class="mb-4"><span class="p-2 rounded bg-yellow-500">Wordpress</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-red-500">Microservice Architecture</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-red-500">Google Cloud Platform</span></li>
 			<li class="mb-4"><span class="p-2 rounded bg-red-500">OpenShift</span></li>
